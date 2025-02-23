@@ -11,7 +11,14 @@ Espero que gostem e que isso ajude no dia a dia de cada um! ☺️
 
 Atensiosamente, Raissa Souza Krupek.
 
-## Introdução ao GitHub Pages
+## Conceitos Iniciais
+
+- O que é hospedagem?
+Hospedagem é um serviço online que possibilita a disponibilização de um site ou aplicativo na internet. Basicamente, trata-se de um espaço em um servidor onde ficam armazenados todos os arquivos essenciais para que sua página seja acessível. Para facilitar a compreensão, podemos compará-la a um terreno: o site seria a casa construída nele, o domínio representaria o endereço e a internet funcionaria como a rua que conecta tudo.
+Existem diversos serviços de hospedagem na internet e um deles é o Github Pages.
+
+- Introdução ao GitHub Pages
+O GitHub Pages é um serviço gratuito de hospedagem de sites estáticos diretamente a partir de um repositório do GitHub. Ele permite que você publique conteúdo de forma simples e eficiente, sem necessidade de servidores externos. Com ele, eh possivel puplicar com o domínio github.io, se estiver utilizando o GitHub free, ou mesmo [personalizar seu domínio](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site). Estes e outros conceitos serão melhor abordados mais a frente 😉
 
 ## Criando um repositório para seu site
 
