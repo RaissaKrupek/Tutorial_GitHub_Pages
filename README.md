@@ -9,6 +9,15 @@ Espero que gostem e que isso ajude no dia a dia de cada um! ☺️
 
 Atensiosamente, Raissa Souza Krupek.
 
+## Introdução ao GitHub Pages
+
+## Criando um repositório para seu site
 
 A URL do site publicado será derivada da combinação do seu nome de usuário e do nome do repositório (por exemplo,  https://username.github.io/reponame/).
 Opcionalmente, você pode configurar um domínio personalizado para um site do GitHub Pages, mas antes de explorar esse assunto, você deve colocar seu site em funcionamento com o domínio padrão
+
+## Configurando seu repositório
+
+## Por onde construi-lo?
+
+## Acesse sua URL
