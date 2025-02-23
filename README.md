@@ -33,11 +33,13 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
 **2º**- Use o menu suspenso Proprietário para selecionar a conta que deseja atribuir como proprietário do repositório.
 
-- Digite um nome para o repositório e uma descrição opcional. Se você estiver criando um site de usuário ou de organização, seu repositório precisará ser chamado `<user>.github.io` ou `<organization>.github.io`.
+- Digite um nome para o repositório e uma descrição opcional. Se você estiver criando um site de usuário ou de organização, seu repositório precisará ser chamado `<user>.github.io` ou `<organization>.github.io`. Antes de definir o nome do repositório, é importante destacar que a **URL do site** publicado será gerada a partir da combinação do seu nome de usuário e do nome do repositório, por exemplo, `https://username.github.io/reponame/`. No entanto, caso mude de ideia, é possível alterá-lo posteriormente, ajustando a configuração do repositório e, se necessário, atualizando os links associados.
   
- Observação: Se o nome do usuário ou da organização contiver letras maiúsculas, você precisará colocá-las em minúsculas!
+   Observação: Se o nome do usuário ou da organização contiver letras maiúsculas, você precisará colocá-las em minúsculas!
 
-A URL do site publicado será derivada da combinação do seu nome de usuário e do nome do repositório (por exemplo,  https://username.github.io/reponame/).
+**3º**- Selecione Inicializar este repositório com um `README.md`.
+
+
 Opcionalmente, você pode configurar um domínio personalizado para um site do GitHub Pages, mas antes de explorar esse assunto, você deve colocar seu site em funcionamento com o domínio padrão
 
 ## Configurando seu repositório
