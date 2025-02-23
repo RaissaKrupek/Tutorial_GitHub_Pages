@@ -28,7 +28,12 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 **1º**- Na página inicial, vá até a opção `Criar novo repositório`
 
 - Nesta etapa, você irá inserir as informações do projeto, como o nome do repositório, adicionar uma descrição breve e, em seguida, `criar o repositório`
-- Observacao: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
+  Observacao: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
+
+**2º**- Use o menu suspenso Proprietário para selecionar a conta que deseja atribuir como proprietário do repositório.
+
+- Digite um nome para o repositório e uma descrição opcional. Se você estiver criando um site de usuário ou de organização, seu repositório precisará ser chamado `<user>.github.io` ou `<organization>.github.io`. 
+ Observacao: Se o nome do usuário ou da organização contiver letras maiúsculas, você precisará colocá-las em minúsculas!
 
 A URL do site publicado será derivada da combinação do seu nome de usuário e do nome do repositório (por exemplo,  https://username.github.io/reponame/).
 Opcionalmente, você pode configurar um domínio personalizado para um site do GitHub Pages, mas antes de explorar esse assunto, você deve colocar seu site em funcionamento com o domínio padrão
