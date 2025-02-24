@@ -20,7 +20,7 @@ Existem diversos serviços de hospedagem na internet e um deles é o Github Page
 
 - Introdução ao GitHub Pages
   
-O GitHub Pages é um serviço gratuito de hospedagem de sites estáticos diretamente a partir de um repositório do GitHub. Ele permite que você publique conteúdo de forma simples e eficiente, sem necessidade de servidores externos. Com ele, eh possivel puplicar com o domínio github.io, se estiver utilizando o GitHub free, ou mesmo [personalizar seu domínio](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site). Estes e outros conceitos serão melhor abordados mais a frente 😉
+O GitHub Pages é um serviço gratuito de hospedagem de sites estáticos diretamente a partir de um repositório do GitHub. Ele permite que você publique conteúdo de forma simples e eficiente, sem necessidade de servidores externos. Com ele, eh possivel puplicar com o domínio github.io, se estiver utilizando o GitHub free, ou mesmo [personalizar seu domínio](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site). Estes e alguns outros conceitos serão melhor abordados mais a frente 😉
 
 ## Criando um repositório para seu site 📁
 Antes de tudo, é importante saber que é possível criar um site do GitHub Pages em um repositório **novo** ou **existente**. Aqui, primeiramente, abordaremos a criação do website do inicio, criando um novo repositório!
