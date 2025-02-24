@@ -27,7 +27,7 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
 **1º**- Na página inicial, vá até a opção `Criar novo repositório`
 
-- Nesta etapa, você irá inserir as informações do projeto, como o nome do repositório, adicionar uma descrição breve e, em seguida, `criar o repositório`.
+- Nesta etapa, você irá inserir as informações do projeto, como o nome do repositório, adicionar uma descrição breve e, em seguida, `criar repositório`.
   
   Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
 
@@ -50,6 +50,14 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
 **2º**- Na seção `Código e automação` da barra lateral, clique em `Pages`.
 
 **3º**- uma fonte de publicação para o site
+
+Você pode publicar seu site de duas formas: enviando suas alterações para um **branch específico** ou configurando um **fluxo de trabalho com GitHub Actions**.  
+
+Se você não precisa de um controle avançado sobre a construção do site, a forma mais simples é configurar a publicação automática quando houver um **push** para um branch escolhido. Você pode definir qual **branch** e qual **pasta** serão usados como fonte de publicação.  
+
+Por padrão, os repositórios do GitHub geralmente começam com um branch chamado `main`.
+
+O branch pode ser qualquer um do seu repositório, e a pasta pode ser a **raiz do repositório (/**) ou a pasta **/docs** dentro desse branch. Sempre que fizer um **push** com mudanças, os arquivos da pasta escolhida serão atualizados automaticamente no seu site pelo **GitHub Pages**.
 
 
 Configurar uma fonte de publicação
