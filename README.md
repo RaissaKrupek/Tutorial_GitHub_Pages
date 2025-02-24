@@ -81,3 +81,4 @@ Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settin
 
 ## Mas por onde construo meu website? 🤔
 Você pode adicionar mais páginas ao seu site criando novos arquivos. Também é possível adicionar um tema para personalizar a aparência do site. 
+- pelo quarto: https://quarto.org/docs/publishing/github-pages.html
