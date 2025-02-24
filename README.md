@@ -69,5 +69,15 @@ O branch pode ser qualquer um do seu repositório, e a pasta pode ser a **raiz d
 
 
 ## Acesse sua URL 📲
+Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settings`, e clique em  `Visit site`.
+
+## Dicas extras 😉
+
+- Deixe sempre os arquivos .html que você quer exibir como página inicial do seu site na pasta raíz da sua fonte de publicação, ou na pasta elegida dentro do branch.
+- Não se preocupe se demorar para que sua página esteja no ar. Este processo pode demorar de alguns segundos a minutos. Caso nao esteja conseguindo acessar sua URL, atualize a pagina.
+- Se o seu site não tiver uma página 404 ainda, é possível adicionar essa página com o Github Pages. Uma página 404 é uma página de erro que será exibida sempre que um usuário tentar acessar um caminho que não existe na sua url. Saiba como [neste link](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
+- Se alguma acao acarretar em um erro 404, voce pode procurar por solucoes atraves [desta pagina](https://docs.github.com/pt/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
+
 
 ## Mas por onde constru-o meu website? 🤔
+Você pode adicionar mais páginas ao seu site criando novos arquivos. Também é possível adicionar um tema para personalizar a aparência do site. 
