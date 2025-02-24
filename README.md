@@ -68,6 +68,6 @@ O branch pode ser qualquer um do seu repositório, e a pasta pode ser a **raiz d
   **IV.** Clique em `Salvar`.
 
 
-## Acesse sua URL
+## Acesse sua URL 📲
 
-## Por onde construi-lo?
+## Mas por onde constru-o meu website? 🤔
