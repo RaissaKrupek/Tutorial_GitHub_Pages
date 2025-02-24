@@ -59,10 +59,13 @@ Por padrão, os repositórios do GitHub geralmente começam com um branch chamad
 
 O branch pode ser qualquer um do seu repositório, e a pasta pode ser a **raiz do repositório (/**) ou a pasta **/docs** dentro desse branch. Sempre que fizer um **push** com mudanças, os arquivos da pasta escolhida serão atualizados automaticamente no seu site pelo **GitHub Pages**.
 
-  **I.** Ainda em `Pages` em "Build e implantação", em "Fonte", selecione Fazer implantação de um branch.
-  **II.** Em "Compilação e implantação", no menu suspenso de branch, selecione uma fonte de publicação.
-  **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma pasta para a fonte de publicação.
-  **IV.** Clique em `Salvar`.
+    **I.** Ainda em `Pages` em "Build e implantação", em "Fonte", selecione Fazer implantação de um branch.
+  
+    **II.** Em "Compilação e implantação", no menu suspenso de branch, selecione uma fonte de publicação.
+  
+    **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma pasta para a fonte de publicação.
+  
+    **IV.** Clique em `Salvar`.
 
 
 Configurar uma fonte de publicação
