@@ -47,7 +47,7 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
 
 **1º**- No seu repositório, acesse a opção `Settings`.
 
-**2º**- Na seção `Código e automação` da barra lateral, clique em `Pages`.
+**2º**- Na seção `Code and automation` da barra lateral, clique em `Pages`.
 
 **3º**- Confugure uma fonte de publicação para o site
 
