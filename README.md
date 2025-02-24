@@ -79,5 +79,5 @@ Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settin
 - Se alguma acao acarretar em um erro 404, voce pode procurar por solucoes atraves [desta pagina](https://docs.github.com/pt/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
 
 
-## Mas por onde constru-o meu website? 🤔
+## Mas por onde construo meu website? 🤔
 Você pode adicionar mais páginas ao seu site criando novos arquivos. Também é possível adicionar um tema para personalizar a aparência do site. 
