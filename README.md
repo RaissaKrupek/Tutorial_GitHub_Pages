@@ -75,7 +75,7 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
   
   **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma **pasta** para a fonte de publicação.
 
-   <img src="Images/im_07.png" width="500">
+   <img src="Images/im_07.png" width="300">
   
   **IV.** Clique em `Salvar`.
 
