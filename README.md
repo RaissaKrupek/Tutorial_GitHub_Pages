@@ -96,9 +96,19 @@ Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settin
 Agora que um **serviço de hospedagem** foi configurado para seu site, o proximo passo eh **cria-lo**, adicionando os arquivos em seu repositorio do Github referente ao website. Para isso, você pode escolher diferentes abordagens, dependendo do seu nível de conhecimento e da complexidade do site que deseja desenvolver. Aqui estão algumas opções:
 
 🔹 HTML + CSS + JS → Site estático e simples.
-🔹 Jekyll (Markdown) → Blogs e documentação (suporte nativo no GitHub Pages).
-🔹 Quarto → Ciência de dados e relatórios interativos.
-🔹 Hugo, Gatsby, Next.js → Sites rápidos e dinâmicos.
 
-Também é possível adicionar um tema para personalizar a aparência do site. 
-- pelo quarto: https://quarto.org/docs/publishing/github-pages.html
+🔹 Jekyll (baseado em Markdown) → Blogs e documentação (suporte nativo no GitHub Pages).
+
+🔹 ⭐ [Quarto](https://quarto.org/docs/publishing/github-pages.html) → Ciência de dados e relatórios interativos, blogs científicos e documentação técnica.
+
+🔹 Hugo, Gatsby, Next.js (frameworks modernos para sites otimizados, escaláveis e de alto desempenho) → Sites rápidos e dinâmicos. 
+
+> ⚠️ Observação: é possível adicionar um tema para personalizar a aparência do site.
+
+Você pode construir seu site em diferentes ambientes e depois enviar (commit/push) para o GitHub. Mais detalhes de como realizar esse processo, acesse [Tutorial_Git_Github](https://github.com/RaissaKrupek/Tutorial_Git_Github)
+🛠 Onde Construir seu Site? Você pode desenvolver seu site em diferentes ambientes antes de enviá-lo para o GitHub:
+
+- RStudio → Ótimo para projetos em Quarto e Markdown.
+- VS Code → Versátil para HTML, CSS, JS, Jekyll, Hugo, Next.js e outros frameworks.
+- Jupyter Notebook → Pode ser usado para relatórios interativos com Quarto.
+
