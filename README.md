@@ -5,6 +5,7 @@ Tutorial em Construção!
 Olá!
 
 Este é um guia prático sobre o GitHub Pages, um serviço de hospedagem de sites que permite que você publique conteúdo com base no código-fonte gerenciado em um repositório do GitHub. Aqui, você encontrará **comandos essenciais**, conceitos importantes e um passo a passo para publicar seu website forma eficiente e simples. 🚀
+
 Muitas informações não serão abordadas, pois o intuito é fornecer apenas o essencial. Entretanto, para quaisquer dúvidas, você pode consultar a [documentação oficial](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-github-pages-site) do GitHub Pages.
 
 Espero que gostem e que isso ajude no dia a dia de cada um! ☺️
