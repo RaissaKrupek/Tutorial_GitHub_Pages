@@ -1,7 +1,5 @@
 # 👩🏻‍💻Tutorial GitHub Pages👩🏻‍💻
 
-Tutorial em Construção!
-
 Olá!
 
 Este é um guia prático sobre o GitHub Pages, um serviço de hospedagem de sites que permite que você publique conteúdo com base no código-fonte gerenciado em um repositório do GitHub. Aqui, você encontrará **comandos essenciais**, conceitos importantes e um passo a passo para publicar seu website forma eficiente e simples. 🚀
@@ -88,12 +86,16 @@ Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settin
 
 ## Dicas extras 😉
 
-- Deixe sempre os arquivos .html que você quer exibir como página inicial do seu site na pasta raíz da sua fonte de publicação, ou na pasta elegida dentro do branch.
+- Deixe sempre os arquivos `.html` na pasta raíz da sua fonte de publicação ou na pasta elegida dentro do branch.
 - Não se preocupe se demorar para que sua página esteja no ar. Este processo pode demorar de alguns segundos a minutos. Caso nao esteja conseguindo acessar sua URL, atualize a pagina.
-- Se o seu site não tiver uma página 404 ainda, é possível adicionar essa página com o Github Pages. Uma página 404 é uma página de erro que será exibida sempre que um usuário tentar acessar um caminho que não existe na sua url. Saiba como [neste link](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
-- Se alguma acao acarretar em um erro 404, voce pode procurar por solucoes atraves [desta pagina](https://docs.github.com/pt/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
+- Se o seu site não tiver uma página 404 ainda (uma página de erro que será exibida sempre que um usuário tentar acessar um caminho que não existe na sua url), é possível adicionar essa página com o Github Pages. Saiba como [neste link](https://docs.github.com/pt/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site).
+- Se alguma ação acarretar em um erro 404, procure por solucoes atraves [desta pagina](https://docs.github.com/pt/pages/getting-started-with-github-pages/troubleshooting-404-errors-for-github-pages-sites).
 
 
 ## Mas por onde construo meu website? 🤔
-Você pode adicionar mais páginas ao seu site criando novos arquivos. Também é possível adicionar um tema para personalizar a aparência do site. 
+Agora que um **serviço de hospedagem** foi configurado para seu site, o proximo passo eh **cria-lo**, adicionando os arquivos em seu repositorio do Github referente ao website.
+
+Para isso, você pode escolher diferentes abordagens, dependendo do seu nível de conhecimento e da complexidade do site que deseja desenvolver. Aqui estão algumas opções:
+
+Também é possível adicionar um tema para personalizar a aparência do site. 
 - pelo quarto: https://quarto.org/docs/publishing/github-pages.html
