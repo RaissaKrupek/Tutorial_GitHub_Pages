@@ -63,18 +63,18 @@ Você pode publicar seu site de duas formas: enviando suas alterações para um 
 
 Se você não precisa de um controle avançado sobre a construção do site, a forma mais simples é configurar a publicação automática quando houver um **push** para um branch escolhido. Você pode definir qual **branch** e qual **pasta** serão usados como fonte de publicação.  
 
-Por padrão, os repositórios do GitHub geralmente começam com um branch chamado `main`.
-
 O branch pode ser qualquer um do seu repositório, e a pasta pode ser a **raiz do repositório (/**) ou a pasta **/docs** dentro desse branch. Sempre que fizer um **push** com mudanças, os arquivos da pasta escolhida serão atualizados automaticamente no seu site pelo **GitHub Pages**.
 
-  **I.** Ainda em `Pages` em "Build e implantação", em "Fonte", selecione Fazer implantação de um branch.
+  **I.** Em "Build and deployment", no menu suspenso `Source`, selecione Fazer implantação de um branch (`Deploy From a Branch`).
   
-  **II.** Em "Compilação e implantação", no menu suspenso de branch, selecione uma fonte de publicação.
+  **II.** No menu suspenso de branch, selecione uma fonte de publicação.
 
    <img src="Images/im_05.png" width="500"> 
    <img src="Images/im_06.png" width="500">
+
+  Observacao: Por padrão, os repositórios do GitHub geralmente começam com um branch chamado `main`.
   
-  **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma pasta para a fonte de publicação.
+  **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma **pasta** para a fonte de publicação.
 
    <img src="Images/im_07.png" width="500">
   
