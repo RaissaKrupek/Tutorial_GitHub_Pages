@@ -93,9 +93,12 @@ Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settin
 
 
 ## Mas por onde construo meu website? 🤔
-Agora que um **serviço de hospedagem** foi configurado para seu site, o proximo passo eh **cria-lo**, adicionando os arquivos em seu repositorio do Github referente ao website.
+Agora que um **serviço de hospedagem** foi configurado para seu site, o proximo passo eh **cria-lo**, adicionando os arquivos em seu repositorio do Github referente ao website. Para isso, você pode escolher diferentes abordagens, dependendo do seu nível de conhecimento e da complexidade do site que deseja desenvolver. Aqui estão algumas opções:
 
-Para isso, você pode escolher diferentes abordagens, dependendo do seu nível de conhecimento e da complexidade do site que deseja desenvolver. Aqui estão algumas opções:
+🔹 HTML + CSS + JS → Site estático e simples.
+🔹 Jekyll (Markdown) → Blogs e documentação (suporte nativo no GitHub Pages).
+🔹 Quarto → Ciência de dados e relatórios interativos.
+🔹 Hugo, Gatsby, Next.js → Sites rápidos e dinâmicos.
 
 Também é possível adicionar um tema para personalizar a aparência do site. 
 - pelo quarto: https://quarto.org/docs/publishing/github-pages.html
