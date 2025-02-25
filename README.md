@@ -33,7 +33,7 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
 **3º**- Digite um nome para o repositório e uma descrição opcional.
 
- <img src="Images/im_01.png" width="500">
+ <img src="Images/im_01.png" width="600">
 
 - Se você estiver criando um site de usuário ou de organização, seu repositório precisará ser chamado `<user>.github.io` ou `<organization>.github.io`. Antes de definir o nome do repositório, é importante destacar que a **URL do site** publicado será gerada a partir da combinação do seu nome de usuário e do nome do repositório, por exemplo, `https://username.github.io/reponame/`. No entanto, caso mude de ideia, é possível alterá-lo posteriormente, ajustando a configuração do repositório e, se necessário, atualizando os links associados.
   
@@ -43,7 +43,7 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
   > Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
 
-   <img src="Images/im_02.png" width="500">
+   <img src="Images/im_02.png" width="600">
 
 Opcionalmente, você pode configurar um [domínio personalizado](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site) para um site do GitHub Pages, o qual permitira, por exemplo, a personalização da URL de seu website, mas antes de explorar esse assunto, você deve colocar seu site em funcionamento com o domínio padrão
 
@@ -51,7 +51,7 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
 
 **1º**- No seu repositório, acesse a opção `Settings`.
 
- <img src="Images/im_03.png" width="500">
+ <img src="Images/im_03.png" width="600">
 
 **2º**- Na seção `Code and automation` da barra lateral, clique em `Pages`.
 
@@ -67,11 +67,11 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
   
   **II.** No menu suspenso de branch, selecione uma fonte de publicação.
 
-   <img src="Images/im_05.png" width="500"> 
+   <img src="Images/im_05.png" width="600"> 
 
   > Observacao: Por padrão, os repositórios do GitHub geralmente começam com um branch chamado `main`.
 
-   <img src="Images/im_06.png" width="500">
+   <img src="Images/im_06.png" width="600">
   
   **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma **pasta** para a fonte de publicação.
 
@@ -83,7 +83,7 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
 ## Acesse sua URL 📲
 Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settings`, e clique em  `Visit site`.
 
-<img src="Images/im_08.png" width="500">
+<img src="Images/im_08.png" width="600">
 
 ## Dicas extras 😉
 
