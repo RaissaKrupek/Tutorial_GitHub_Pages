@@ -28,12 +28,12 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 **1º**- Na página inicial, vá até a opção `Criar novo repositório`
 
 - Nesta etapa, você irá inserir as informações do projeto, como o nome do repositório, adicionar uma descrição breve e, em seguida, `criar repositório`.
-  
-  Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
 
 **2º**- Use o menu suspenso Proprietário para selecionar a conta que deseja atribuir como proprietário do repositório.
 
 **3º**- Digite um nome para o repositório e uma descrição opcional.
+
+ <img src="Images/im_01.png" width="500">
 
 - Se você estiver criando um site de usuário ou de organização, seu repositório precisará ser chamado `<user>.github.io` ou `<organization>.github.io`. Antes de definir o nome do repositório, é importante destacar que a **URL do site** publicado será gerada a partir da combinação do seu nome de usuário e do nome do repositório, por exemplo, `https://username.github.io/reponame/`. No entanto, caso mude de ideia, é possível alterá-lo posteriormente, ajustando a configuração do repositório e, se necessário, atualizando os links associados.
   
@@ -41,13 +41,21 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
 **4º**- Selecione Inicializar este repositório com um `README.md`.
 
+  Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
+
+   <img src="Images/im_02.png" width="500">
+
 Opcionalmente, você pode configurar um [domínio personalizado](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site) para um site do GitHub Pages, o qual permitira, por exemplo, a personalização da URL de seu website, mas antes de explorar esse assunto, você deve colocar seu site em funcionamento com o domínio padrão
 
 ## Configurando seu repositório ⚙️
 
 **1º**- No seu repositório, acesse a opção `Settings`.
 
+ <img src="Images/im_03.png" width="500">
+
 **2º**- Na seção `Code and automation` da barra lateral, clique em `Pages`.
+
+ <img src="Images/im_04.png" width="500">
 
 **3º**- Confugure uma fonte de publicação para o site
 
@@ -62,14 +70,21 @@ O branch pode ser qualquer um do seu repositório, e a pasta pode ser a **raiz d
   **I.** Ainda em `Pages` em "Build e implantação", em "Fonte", selecione Fazer implantação de um branch.
   
   **II.** Em "Compilação e implantação", no menu suspenso de branch, selecione uma fonte de publicação.
+
+   <img src="Images/im_05.png" width="500"> 
+   <img src="Images/im_06.png" width="500">
   
   **III.** Opcionalmente, use o menu suspenso de pasta a fim de selecionar uma pasta para a fonte de publicação.
+
+   <img src="Images/im_07.png" width="500">
   
   **IV.** Clique em `Salvar`.
 
 
 ## Acesse sua URL 📲
 Para acessar a URL de seu website, volte em `Pages`, acessado atraves de `Settings`, e clique em  `Visit site`.
+
+<img src="Images/im_08.png" width="500">
 
 ## Dicas extras 😉
 
