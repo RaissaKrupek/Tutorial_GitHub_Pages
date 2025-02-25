@@ -43,7 +43,7 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
   > Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
 
-   <img src="Images/im_02.png" width="600">
+   <img src="Images/im_02.png" width="500">
 
 Opcionalmente, você pode configurar um [domínio personalizado](https://docs.github.com/pt/pages/configuring-a-custom-domain-for-your-github-pages-site) para um site do GitHub Pages, o qual permitira, por exemplo, a personalização da URL de seu website, mas antes de explorar esse assunto, você deve colocar seu site em funcionamento com o domínio padrão
 
