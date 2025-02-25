@@ -12,7 +12,7 @@ Espero que gostem e que isso ajude no dia a dia de cada um! ☺️
 
 Atensiosamente, Raissa Souza Krupek.
 
-## Conceitos Iniciais
+## Conceitos Iniciais 📝
 
 - O que é hospedagem? 🤔
   
@@ -38,11 +38,11 @@ Antes de tudo, é importante saber que é possível criar um site do GitHub Page
 
 - Se você estiver criando um site de usuário ou de organização, seu repositório precisará ser chamado `<user>.github.io` ou `<organization>.github.io`. Antes de definir o nome do repositório, é importante destacar que a **URL do site** publicado será gerada a partir da combinação do seu nome de usuário e do nome do repositório, por exemplo, `https://username.github.io/reponame/`. No entanto, caso mude de ideia, é possível alterá-lo posteriormente, ajustando a configuração do repositório e, se necessário, atualizando os links associados.
   
-  > Observação: Se o nome do usuário ou da organização contiver letras maiúsculas, você precisará colocá-las em minúsculas!
+  > ⚠️ Observação: Se o nome do usuário ou da organização contiver letras maiúsculas, você precisará colocá-las em minúsculas!
 
 **4º**- Selecione Inicializar este repositório com um `README.md`.
 
-  > Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
+  > ⚠️ Observação: Se a conta do proprietário do repositório for o GitHub Free ou o GitHub Free para organizações, o repositório precisará ser **público**.
 
    <img src="Images/im_02.png" width="500">
 
@@ -70,7 +70,7 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
 
    <img src="Images/im_05.png" width="600"> 
 
-  > Observacao: Por padrão, os repositórios do GitHub geralmente começam com um branch chamado `main`.
+  > ⚠️ Observação: Por padrão, os repositórios do GitHub geralmente começam com um branch chamado `main`.
 
    <img src="Images/im_06.png" width="600">
   
