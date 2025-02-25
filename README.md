@@ -55,7 +55,7 @@ Opcionalmente, você pode configurar um [domínio personalizado](https://docs.gi
 
 **2º**- Na seção `Code and automation` da barra lateral, clique em `Pages`.
 
- <img src="Images/im_04.png" width="500">
+ <img src="Images/im_04.png" width="300">
 
 **3º**- Confugure uma fonte de publicação para o site
 
