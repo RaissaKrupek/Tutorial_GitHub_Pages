@@ -105,10 +105,9 @@ Agora que um **serviço de hospedagem** foi configurado para seu site, o proximo
 
 > ⚠️ Observação: é possível adicionar um tema para personalizar a aparência do site.
 
-Você pode construir seu site em diferentes ambientes e depois enviar (commit/push) para o GitHub. Mais detalhes de como realizar esse processo, acesse [Tutorial_Git_Github](https://github.com/RaissaKrupek/Tutorial_Git_Github)
-
 🛠 **Onde** Construir seu Site? 
-Você pode desenvolver seu site em diferentes ambientes antes de enviá-lo para o GitHub:
+
+Você pode construir seu site em diferentes ambientes e depois enviar (commit/push) para o GitHub. Mais detalhes de como realizar esse processo utilizando o ambiente RStudio, acesse [Tutorial_Git_Github](https://github.com/RaissaKrupek/Tutorial_Git_Github)
 
 - RStudio → Ótimo para projetos em Quarto e Markdown.
 - VS Code → Versátil para HTML, CSS, JS, Jekyll, Hugo, Next.js e outros frameworks.
