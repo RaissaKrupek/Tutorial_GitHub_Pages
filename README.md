@@ -99,7 +99,7 @@ Agora que um **serviço de hospedagem** foi configurado para seu site, o proximo
 
 🔹 Jekyll (baseado em Markdown) → Blogs e documentação (suporte nativo no GitHub Pages).
 
-🔹 ⭐ [Quarto](https://quarto.org/docs/publishing/github-pages.html) → Ciência de dados e relatórios interativos, blogs científicos e documentação técnica.
+🔹 [Quarto](https://quarto.org/docs/publishing/github-pages.html) → Ciência de dados e relatórios interativos, blogs científicos e documentação técnica. ⭐ 
 
 🔹 Hugo, Gatsby, Next.js (frameworks modernos para sites otimizados, escaláveis e de alto desempenho) → Sites rápidos e dinâmicos. 
 
